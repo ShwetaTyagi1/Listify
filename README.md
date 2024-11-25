@@ -15,7 +15,7 @@ Listify is an innovative web application that helps e-commerce sellers automatic
 2. Backend: Flask, OpenAI Python Library, spaCy, Express.js, Multer, Mongoose, Node.js, MongoDB
 3. Deployment: PythonAnywhere, Netlify, Render
 
-##SETUP:
+## SETUP:
 
 To get started with Listify, follow these steps to clone the repository and set up the project locally:
 
