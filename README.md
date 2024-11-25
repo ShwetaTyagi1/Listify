@@ -28,13 +28,13 @@ cd .\backend\
 npm i
 
 Frontend (React)
-cd .\virtualr\
+cd ..\virtualr\
 npm install
 npm i axios
 
 3. Run the app
 Backend
-cd .\backend\
+cd ..\backend\
 Node server.js
 
 Frontend
