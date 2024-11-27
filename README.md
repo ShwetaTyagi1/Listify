@@ -17,29 +17,9 @@ Listify is an innovative web application that helps e-commerce sellers automatic
 
 ## SETUP:
 
-To get started with Listify, follow these steps to clone the repository and set up the project locally:
+To get started, follow:
 
-1. Clone the repository
-git clone https://github.com/ShwetaTyagi1/Listify.git
+1. Clone the repository.
+2. Install all dependencies(end to end).
+3. Run the server-side and frontend. 
 
-2. Install dependencies
-Backend 
-cd .\backend\
-npm i
-
-Frontend (React)
-cd ..\virtualr\
-npm install
-npm i axios
-
-3. Run the app
-Backend
-cd ..\backend\
-Node server.js
-
-Frontend
-cd .\virtualr\
-npm run dev
-
-Visit the local host to see the website in action and interact with the application.
-(MongoDB server not able to run in cloned repo. It needs the connection string. It can save the Contact Form data through the deployed link.)
