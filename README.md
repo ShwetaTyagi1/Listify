@@ -12,7 +12,7 @@ Listify is an innovative web application that helps e-commerce sellers automatic
    
 ### Tech Stack:
 1. Frontend: React, React Router DOM, Axios, Lucide React, Auth0 React SDK, HTML5, CSS
-2. Backend: Flask, OpenAI Python Library, spaCy, Express.js, Multer, Mongoose, Node.js, MongoDB
+2. Backend: Flask, Meta’s Llama 3.1, spaCy, Express.js, Multer, Mongoose, Node.js, MongoDB
 
 ## SETUP:
 
